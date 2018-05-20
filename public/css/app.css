@@ -17689,6 +17689,24 @@ a.is-muted:hover {
   padding-right: 100px !important;
 }
 
+.side-menu {
+  position: absolute;
+  top: 4rem;
+  bottom: 0;
+  width: 200px;
+}
+
+.management-area {
+  position: absolute;
+  top: 4rem;
+  left: 200px;
+  right: 0;
+}
+
+.flex-container {
+  margin: 10px 25px;
+}
+
 .bd-special-shadow {
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.1)), to(transparent));
   background-image: linear-gradient(rgba(0, 0, 0, 0.1), transparent);
